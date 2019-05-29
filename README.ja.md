@@ -36,21 +36,13 @@
 
 - [ドキュメント](https://panjiachen.github.io/vue-element-admin-site/)
 
-- [Gitter](https://gitter.im/vue-element-admin/discuss)
-
 - [Donate](https://panjiachen.gitee.io/vue-element-admin-site/zh/donate)
 
-- [Wiki](https://github.com/PanJiaChen/vue-element-admin/wiki)
-
-- おすすめシンプルテンプレート: [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
-- デスクトップバージョン: [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
-- Typescriptバージョン: [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) (鸣谢: [@Armour](https://github.com/Armour))
 
 **After the `v4.1.0+` version, the default master branch will not support i18n. Please use [i18n Branch](https://github.com/PanJiaChen/vue-element-admin/tree/i18n), it will keep up with the master update**
 
 **現在のバージョン `v4.0+` は `vue-cli` で構築，バグ報告は[issue](https://github.com/PanJiaChen/vue-element-admin/issues/new)のissueでお願いします。旧バージョン[tag/3.11.0](https://github.com/PanJiaChen/vue-element-admin/tree/tag/3.11.0)もあります。`vue-cli`に依存しないです。**
 
-**低いバージョンのブラウザはサーポートしないです(例えば ie)，必要があれば polyfill を追加してください。 [詳細はこちら](https://github.com/PanJiaChen/vue-element-admin/wiki#babel-polyfill)**
 
 ## 前準備
 
@@ -137,10 +129,10 @@ Become a sponsor and get your logo on our README on GitHub with a link to your s
 
 ```bash
 # clone the project
-git clone https://github.com/PanJiaChen/vue-element-admin.git
+git clone git@github.com:TimKeeper/Vue-management.git
 
 # enter the project directory
-cd vue-element-admin
+cd Vue-management
 
 # install dependency
 npm install
@@ -181,18 +173,13 @@ Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/gui
 
 ## Changelog
 
-Detailed changes for each release are documented in the [release notes](https://github.com/PanJiaChen/vue-element-admin/releases).
-
 ## Online Demo
-
-[Preview](https://panjiachen.github.io/vue-element-admin)
 
 ## Donate
 
 If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
-![donate](./src/assets/pay_images/ali_pay.png)
-![donate](./src/assets/pay_images/wx_pay.png)
+![donate](./src/assets/pay_images/pay_image.png)
 
 ## Browsers support
 
@@ -204,6 +191,6 @@ Modern browsers and Internet Explorer 10+.
 
 ## License
 
-[MIT](https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE)
+[MIT](https://github.com/TimKeeper/Vue-management/blob/master/LICENSE)
 
-Copyright (c) 2017-present PanJiaChen
+Copyright (c) 2019-presente JeremySun

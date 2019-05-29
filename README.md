@@ -38,17 +38,9 @@ It is a magical vue admin based on the newest development stack of vue, built-in
 
 - [Documentation](https://panjiachen.github.io/vue-element-admin-site/)
 
-- [Gitter](https://gitter.im/vue-element-admin/discuss)
-
 - [Donate](https://panjiachen.github.io/vue-element-admin-site/donate/)
 
-- [Wiki](https://github.com/PanJiaChen/vue-element-admin/wiki)
-
 - [Gitee](https://panjiachen.gitee.io/vue-element-admin/) 国内用户可访问该地址在线预览
-
-- Base template recommends using: [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
-- Desktop: [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
-- Typescript: [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) (Credits: [@Armour](https://github.com/Armour))
 
 **After the `v4.1.0+` version, the default master branch will not support i18n. Please use [i18n Branch](https://github.com/PanJiaChen/vue-element-admin/tree/i18n), it will keep up with the master update**
 
@@ -66,8 +58,6 @@ Understanding and learning this knowledge in advance will greatly help the use o
 </p>
 
 ## Sponsors
-
-Become a sponsor and get your logo on our README on GitHub with a link to your site. [[Become a sponsor]](https://www.patreon.com/panjiachen)
 
 <a href="https://flatlogic.com/admin-dashboards?from=vue-element-admin"><img width="150px" src="https://wpimg.wallstcn.com/9c0b719b-5551-4c1e-b776-63994632d94a.png" /></a><p>Admin Dashboard Templates made with Vue, React and Angular.</p>
 
@@ -141,10 +131,10 @@ Become a sponsor and get your logo on our README on GitHub with a link to your s
 
 ```bash
 # clone the project
-git clone https://github.com/PanJiaChen/vue-element-admin.git
+git clone git@github.com:TimKeeper/Vue-management.git
 
 # enter the project directory
-cd vue-element-admin
+cd Vue-management
 
 # install dependency
 npm install
@@ -181,22 +171,15 @@ npm run lint
 npm run lint -- --fix
 ```
 
-Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/guide/essentials/deploy.html) for more information
-
 ## Changelog
 
-Detailed changes for each release are documented in the [release notes](https://github.com/PanJiaChen/vue-element-admin/releases).
-
 ## Online Demo
-
-[Preview](https://panjiachen.github.io/vue-element-admin)
 
 ## Donate
 
 If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
-![donate](./src/assets/pay_images/ali_pay.png)
-![donate](./src/assets/pay_images/wx_pay.png)
+![donate](./src/assets/pay_images/pay_image.png)
 
 ## Browsers support
 
@@ -208,6 +191,6 @@ Modern browsers and Internet Explorer 10+.
 
 ## License
 
-[MIT](https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE)
+[MIT](https://github.com/TimKeeper/Vue-management/blob/master/LICENSE)
 
-Copyright (c) 2017-present PanJiaChen
+Copyright (c) 2019-presente JeremySun
