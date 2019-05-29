@@ -195,11 +195,7 @@ Los cambios detallados por cada liberación se encuentran en [notas de liberaci�
 
 Si este proyecto es de mucha ayuda para ti, puedes comprarle al autor un vaso de jugo :tropical_drink:
 
-![Donar](https://wpimg.wallstcn.com/bd273f0d-83a0-4ef2-92e1-9ac8ed3746b9.png)
-
-[dona por Paypal](https://www.paypal.me/panfree23)
-
-[Comprame un Café](https://www.buymeacoffee.com/Pan)
+![donate](./src/assets/pay_images/ali_pay.png)
 
 ## Navegadores Soportados
 
