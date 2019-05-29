@@ -192,6 +192,7 @@ Detailed changes for each release are documented in the [release notes](https://
 If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
 ![donate](./src/assets/pay_images/ali_pay.png)
+![donate](./src/assets/pay_images/wx_pay.png)
 
 ## Browsers support
 

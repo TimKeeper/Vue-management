@@ -213,6 +213,7 @@ Detailed changes for each release are documented in the [release notes](https://
 
 如果你觉得这个项目帮助到了你，你可以帮作者买一杯果汁表示鼓励 :tropical_drink:
 ![donate](./src/assets/pay_images/ali_pay.png)
+![donate](./src/assets/pay_images/wx_pay.png)
 
 ## Browsers support
 

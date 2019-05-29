@@ -196,6 +196,7 @@ Los cambios detallados por cada liberaci√≥n se encuentran en [notas de liberaci√
 Si este proyecto es de mucha ayuda para ti, puedes comprarle al autor un vaso de jugo :tropical_drink:
 
 ![donate](./src/assets/pay_images/ali_pay.png)
+![donate](./src/assets/pay_images/wx_pay.png)
 
 ## Navegadores Soportados
 
