@@ -9,21 +9,6 @@
   <a href="https://github.com/ElemeFE/element">
     <img src="https://img.shields.io/badge/element--ui-2.7.0-brightgreen.svg" alt="element-ui">
   </a>
-  <a href="https://travis-ci.org/PanJiaChen/vue-element-admin" rel="nofollow">
-    <img src="https://travis-ci.org/PanJiaChen/vue-element-admin.svg?branch=master" alt="Estado de Construcción">
-  </a>
-  <a href="https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="Licencia">
-  </a>
-  <a href="https://github.com/PanJiaChen/vue-element-admin/releases">
-    <img src="https://img.shields.io/github/release/PanJiaChen/vue-element-admin.svg" alt="Liberación Github">
-  </a>
-  <a href="https://gitter.im/vue-element-admin/discuss">
-    <img src="https://badges.gitter.im/Join%20Chat.svg" alt="Gitter">
-  </a>
-  <a href="https://panjiachen.github.io/vue-element-admin-site/donate">
-    <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg" alt="Donación">
-  </a>
 </p>
 
 Español | [English](./README.md) | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md)
@@ -35,10 +20,6 @@ Español | [English](./README.md) | [简体中文](./README.zh-CN.md) | [日本�
 Vue Element Admin es una solución práctica basada en la nueva plataforma de desarrollo de vue, construida con soporte a i18 para el manejo de múltiples lenguajes, plantillas estándares para aplicaciones de negocio y un conjunto de asombrosas características. Esta herramienta ayuda a construir largas y complejas Aplicacones de una sola página (SPA). Creo que lo que necesites hacer, este proyecto te ayudará.
 
 - [Vista Prévia de la Aplicación](https://panjiachen.github.io/vue-element-admin)
-
-- [Documentación](https://panjiachen.github.io/vue-element-admin-site/)
-
-- [Para Donaciones](https://panjiachen.github.io/vue-element-admin-site/donate/)
 
 - [Canal de Gitee](https://panjiachen.gitee.io/vue-element-admin/)
 
@@ -170,10 +151,6 @@ npm run lint
 # Chequeo de formato de código y auto-corrección
 npm run lint -- --fix
 ```
-
-## Registro de Cambios
-
-## Demostración en línea
 
 ## Donación
 
